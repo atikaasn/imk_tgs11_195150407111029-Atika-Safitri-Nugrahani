@@ -1,0 +1,134 @@
+.atas{
+	background-color: #d8b89d;
+}
+img.foto1{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	border: solid 5px;
+	border-color: #512B1C;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 650px;
+}
+a.beranda{
+	margin: 12px;
+	color: #512B1C;
+	font-family: Arial;
+	font-size: 15px;
+	text-decoration: none;
+}
+p.nama{
+	font-family: "Tangerine", serif;
+	color: #512B1C;
+	align: center;
+	font-weight: bold;
+	font-size: 65px;
+	margin: 0px;
+	
+}
+p.hello{
+	font-family: Arial;
+	color: #926047;
+	margin: 5px;
+	font-size: 20px;
+}
+.opening{
+	text-align: center;
+}
+img.foto2{
+	width: 430px;
+	height: 350px;
+	margin-top: 20px;
+}
+body{
+	background-color: #efe0d4;
+}
+.foto{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: solid 3px;
+	border-color: #512B1C;
+	padding: 3px;
+	margin: 20px;
+}
+#isi1{
+	padding: 50px;
+	text-align: center;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+.kenalin1{
+	text-align: center;
+	font-family: "Tangerine", serif;
+	font-size: 70px;
+	color: #512B1C;
+	font-weight: bold;
+	font-style: italic;
+}
+.kenalin2{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	color: #926047;
+	margin-bottom: 50px;
+	text-align: center;
+}
+	
+.awal{
+	font-family: "Tangerine", serif;
+	font-size: 70px;
+	color: #512B1C;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+}
+.des{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	color: #926047;
+	margin-bottom: 50px;
+	text-align: left;
+}
+p{
+	margin: 0px;
+}
+.isi2{
+	padding-left: 70px;
+	padding-right: 70px;
+	text-align: left;
+}
+.dot{
+	height: 5px;
+	width: 5px;
+	background-color: #d8c8c0;
+	border-radius: 50%;
+	display: inline-block;
+}
+p.profil{
+	font-family: Arial;
+	color: #50423b;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+.divdot{
+	text-align: center;
+	margin: 60px;
+}
+footer{
+	background-color: #d8b89d;
+	padding: 40px;
+	margin-bottom: 80px;
+	align: center;
+}
+.tbawah{
+	padding-left: 350px;
+	text-align: center;
+}
+#hr{
+	width: 10%;
+	margin-left: 540px;
+}
